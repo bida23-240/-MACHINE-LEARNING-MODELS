@@ -110,7 +110,7 @@ Replace with `svm.py` or `random_forest.py` to run other models.
 ---
 
 ## 👨‍💻 Author
-This project was created for a Research & Innovation assignment on predicting depression using machine learning.
+This project was created by BIDA23-7 Group D for a Research & Innovation assignment on predicting depression using machine learning.
 
 
 
