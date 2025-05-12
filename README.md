@@ -31,6 +31,3 @@ These models were trained and evaluated using a cleaned Excel dataset with featu
   - `seaborn`
   - `openpyxl`
 
-install them using:
-
-pip install pandas numpy scikit-learn matplotlib seaborn openpyxl
