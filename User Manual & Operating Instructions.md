@@ -1,4 +1,4 @@
-# -MACHINE-LEARNING-MODELS
+# MACHINE LEARNING MODELS
 Predicting Depression Using Machine Learning (Logistic Regression, SVM, Random Forest)
 The repository contains Python scripts for predicting depression using three different machine learning models:
 - Logistic Regression
